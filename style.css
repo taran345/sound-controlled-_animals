@@ -1,0 +1,29 @@
+body{
+    font-family: "Jaro", sans-serif;
+    background-color: aquamarine;
+}
+.header_div{
+    background: burlywood;
+    color: antiquewhite;
+}
+.header_div p{
+    letter-spacing: 3px;
+    font-weight: bold;
+    font-family: "Josefin Sans", sans-serif;
+    font-size:20px;
+}
+.main_div button{
+font-weight: bolder;
+width:140px;
+font-family: "Dancing Script", cursive;
+}
+.copy_right_footer{
+    position:fixed;
+    bottom:0;
+   text-align:center;
+    color:wheat;
+    background-color: grey;
+    text-shadow: 5px 5px 5px blanchedalmond;
+    width:100%;
+
+}
